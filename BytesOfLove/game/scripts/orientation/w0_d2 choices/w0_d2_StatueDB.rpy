@@ -2,7 +2,7 @@ label w0_d2_StatueDB:
     $ c_rep = reputation(c_rep, -2)
     $ p_rep = reputation(p_rep, -2)
     $ js_rep = reputation(js_rep, -2)
-    mc "*Distracted* Wait, guys. Look at that girl over there."
+    mc "{i}*Distracted*{/i} Wait, guys. Look at that girl over there."
     mc "She is actually so hot, should I go talk to her?"
     p "What are you even talking about, [mc]?"
     js "Yeah, what is wrong with you?"
