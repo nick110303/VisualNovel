@@ -10,7 +10,7 @@ label w0_d2_StatueC:
     js "And even if you did, C++ is being so mean, there’s no need to be nasty!"
     js "I bet you’re just agreeing with her because you think she’s cute!"
     js "God, men are so shallow!"
-    mc "*Flustered* No, not at all! I seriously mean what I said."
+    mc "{i}*Flustered*{/i} No, not at all! I seriously mean what I said."
     
     # Short choice decided other file was not neccessary - Lazzy
     menu w0_d2_CuteC:
@@ -18,10 +18,10 @@ label w0_d2_StatueC:
 
         "Admit C++ is cute":
             $ c_rep = reputation(c_rep, 2)
-            mc "*Flustered*"
+            mc "{i}*Flustered*{/i}"
             mc "Well... that’s not what I was saying."
             mc "I do think you’re kinda cute..."
-            c "*Blushes*"
+            c "{i}*Blushes*{/i}"
             js "Ugh I knew it!"
             #this \/ line is good but awarge
             js "Stop being such a simp!" 

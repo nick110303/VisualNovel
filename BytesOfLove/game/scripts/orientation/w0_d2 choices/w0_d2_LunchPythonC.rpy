@@ -15,7 +15,7 @@ label w0_d2_LunchPythonC:
     p "It looks really good, and I am starving!"
     mc "Yeah me too, I didn’t even get to eat breakfast."
     c "Why not? You’re so stupid you don’t know how to cook?"
-    c "*Sighs* Sorry that was mean, why didn’t you get breakfast??"
+    c "{i}*Sighs*{/i} Sorry that was mean, why didn’t you get breakfast??"
     mc "My morning was a mess."
     mc "I am from an area about 4 hours away from here and so I had to stay in a hotel."
     mc "And last night I was up way too late."
